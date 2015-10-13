@@ -10,12 +10,12 @@
 		1ED5B5CC163A4E2B0072668E /* MTLComparisonAdditionsSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED5B5CB163A4E2B0072668E /* MTLComparisonAdditionsSpec.m */; };
 		1ED5B5D0163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ED5B5CE163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1ED5B5D1163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED5B5CF163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m */; };
-		2E9E94AF1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */; settings = {ASSET_TAGS = (); }; };
+		2E9E94AF1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E9E94B01BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */; settings = {ASSET_TAGS = (); }; };
-		2E9E94B11BCCA668002B4EBA /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */; settings = {ASSET_TAGS = (); }; };
-		2E9E94B21BCCA6C3002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */; settings = {ASSET_TAGS = (); }; };
+		2E9E94B11BCCA668002B4EBA /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2E9E94B21BCCA6C3002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E9E94B31BCCA6C5002B4EBA /* MTLEXTRuntimeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */; settings = {ASSET_TAGS = (); }; };
-		2E9E94B41BCCA6C8002B4EBA /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */; settings = {ASSET_TAGS = (); }; };
+		2E9E94B41BCCA6C8002B4EBA /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E9E94B51BCCA6CA002B4EBA /* MTLEXTScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */; settings = {ASSET_TAGS = (); }; };
 		2E9E94B61BCCA6CB002B4EBA /* MTLEXTScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */; settings = {ASSET_TAGS = (); }; };
 		547AE0FD17882ED100F4437D /* MTLModelValidationSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 547AE0FC17882ED100F4437D /* MTLModelValidationSpec.m */; };
