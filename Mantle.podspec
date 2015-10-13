@@ -15,7 +15,4 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.7'
   s.requires_arc = true
 
-  s.dependency 'libextobjc/EXTScope'
-  s.dependency 'libextobjc/EXTKeyPathCoding'
-
 end
