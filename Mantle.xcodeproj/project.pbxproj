@@ -160,10 +160,10 @@
 		1ED5B5CB163A4E2B0072668E /* MTLComparisonAdditionsSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLComparisonAdditionsSpec.m; sourceTree = "<group>"; };
 		1ED5B5CE163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MTLComparisonAdditions.h"; sourceTree = "<group>"; };
 		1ED5B5CF163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MTLComparisonAdditions.m"; sourceTree = "<group>"; };
-		2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLEXTScope.h; sourceTree = "<group>"; };
-		2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLEXTScope.m; sourceTree = "<group>"; };
-		2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLEXTRuntimeExtensions.h; sourceTree = "<group>"; };
-		2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLEXTRuntimeExtensions.m; sourceTree = "<group>"; };
+		2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MTLEXTScope.h; path = extobjc/MTLEXTScope.h; sourceTree = "<group>"; };
+		2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MTLEXTScope.m; path = extobjc/MTLEXTScope.m; sourceTree = "<group>"; };
+		2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MTLEXTRuntimeExtensions.h; path = extobjc/MTLEXTRuntimeExtensions.h; sourceTree = "<group>"; };
+		2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MTLEXTRuntimeExtensions.m; path = extobjc/MTLEXTRuntimeExtensions.m; sourceTree = "<group>"; };
 		541B02B31805EC4C000DA87C /* MTLTransformerErrorExamples.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLTransformerErrorExamples.h; sourceTree = "<group>"; };
 		541B02B41805EC4C000DA87C /* MTLTransformerErrorExamples.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLTransformerErrorExamples.m; sourceTree = "<group>"; };
 		547165A31801977000E734DB /* MTLTransformerErrorHandling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLTransformerErrorHandling.h; sourceTree = "<group>"; };
@@ -355,6 +355,10 @@
 		D042FC4515F72B23004E8054 /* Mantle */ = {
 			isa = PBXGroup;
 			children = (
+				2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */,
+				2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */,
+				2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */,
+				2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */,
 				D042FC4C15F72B23004E8054 /* Mantle.h */,
 				D0760E7015FFBF020060F550 /* Modules */,
 				D090E62515F730B2005282F9 /* Extensions */,
@@ -457,10 +461,6 @@
 			isa = PBXGroup;
 			children = (
 				D094E4751777617300906BF7 /* EXTKeyPathCoding.h */,
-				2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */,
-				2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */,
-				2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */,
-				2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */,
 				D094E4781777617300906BF7 /* EXTScope.h */,
 				D094E4791777617300906BF7 /* EXTScope.m */,
 				D094E4761777617300906BF7 /* EXTRuntimeExtensions.h */,
