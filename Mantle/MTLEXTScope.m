@@ -15,7 +15,7 @@
 //  Released under the MIT license.
 //
 
-#import "EXTScope.h"
+#import "MTLEXTScope.h"
 
 void mtl_executeCleanupBlock (__strong mtl_cleanupBlock_t *block) {
 	(*block)();

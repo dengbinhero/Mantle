@@ -10,24 +10,24 @@
 		1ED5B5CC163A4E2B0072668E /* MTLComparisonAdditionsSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED5B5CB163A4E2B0072668E /* MTLComparisonAdditionsSpec.m */; };
 		1ED5B5D0163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ED5B5CE163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1ED5B5D1163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED5B5CF163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m */; };
-		2E9E94AF1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2E9E94B01BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */; settings = {ASSET_TAGS = (); }; };
-		2E9E94B11BCCA668002B4EBA /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		2E9E94B21BCCA6C3002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2E9E94B31BCCA6C5002B4EBA /* MTLEXTRuntimeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */; settings = {ASSET_TAGS = (); }; };
-		2E9E94B41BCCA6C8002B4EBA /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2E9E94B51BCCA6CA002B4EBA /* MTLEXTScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */; settings = {ASSET_TAGS = (); }; };
-		2E9E94B61BCCA6CB002B4EBA /* MTLEXTScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */; settings = {ASSET_TAGS = (); }; };
+		2E990D851BCCCD67007331B0 /* EXTKeyPathCoding.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D7F1BCCCD67007331B0 /* EXTKeyPathCoding.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D861BCCCD67007331B0 /* EXTKeyPathCoding.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D7F1BCCCD67007331B0 /* EXTKeyPathCoding.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D871BCCCD67007331B0 /* metamacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D801BCCCD67007331B0 /* metamacros.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D881BCCCD67007331B0 /* metamacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D801BCCCD67007331B0 /* metamacros.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D891BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D811BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D8A1BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D811BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D8B1BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E990D821BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m */; settings = {ASSET_TAGS = (); }; };
+		2E990D8C1BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E990D821BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m */; settings = {ASSET_TAGS = (); }; };
+		2E990D8D1BCCCD67007331B0 /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D831BCCCD67007331B0 /* MTLEXTScope.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D8E1BCCCD67007331B0 /* MTLEXTScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E990D831BCCCD67007331B0 /* MTLEXTScope.h */; settings = {ASSET_TAGS = (); }; };
+		2E990D8F1BCCCD67007331B0 /* MTLEXTScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E990D841BCCCD67007331B0 /* MTLEXTScope.m */; settings = {ASSET_TAGS = (); }; };
+		2E990D901BCCCD67007331B0 /* MTLEXTScope.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E990D841BCCCD67007331B0 /* MTLEXTScope.m */; settings = {ASSET_TAGS = (); }; };
 		547AE0FD17882ED100F4437D /* MTLModelValidationSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 547AE0FC17882ED100F4437D /* MTLModelValidationSpec.m */; };
 		54803A34178829A800011B39 /* NSError+MTLModelException.m in Sources */ = {isa = PBXBuildFile; fileRef = 54803A31178829A700011B39 /* NSError+MTLModelException.m */; };
 		54803A3B17882CCD00011B39 /* MTLErrorModelExceptionSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 54803A3A17882CCD00011B39 /* MTLErrorModelExceptionSpec.m */; };
 		88080C18160A706900CCABF2 /* NSArray+MTLManipulationAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 88080C16160A706900CCABF2 /* NSArray+MTLManipulationAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		88080C19160A706900CCABF2 /* NSArray+MTLManipulationAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 88080C17160A706900CCABF2 /* NSArray+MTLManipulationAdditions.m */; };
 		88080C1D160A719D00CCABF2 /* MTLArrayManipulationSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 88080C1C160A719D00CCABF2 /* MTLArrayManipulationSpec.m */; };
-		A18397E11BA341BC00AB37BA /* EXTKeyPathCoding.h in Headers */ = {isa = PBXBuildFile; fileRef = D094E4751777617300906BF7 /* EXTKeyPathCoding.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A18397E21BA341BF00AB37BA /* EXTKeyPathCoding.h in Headers */ = {isa = PBXBuildFile; fileRef = D094E4751777617300906BF7 /* EXTKeyPathCoding.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A18397E71BA341D900AB37BA /* metamacros.h in Headers */ = {isa = PBXBuildFile; fileRef = D094E47A1777617300906BF7 /* metamacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A18397E81BA341DC00AB37BA /* metamacros.h in Headers */ = {isa = PBXBuildFile; fileRef = D094E47A1777617300906BF7 /* metamacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BE3408E1196591F300C6C145 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0A56B581804B04900A84EDC /* XCTest.framework */; };
 		D01BD09D16CB432D00EC95C7 /* MTLJSONAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = D01BD09B16CB432D00EC95C7 /* MTLJSONAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D01BD09F16CB432D00EC95C7 /* MTLJSONAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = D01BD09C16CB432D00EC95C7 /* MTLJSONAdapter.m */; };
@@ -160,10 +160,12 @@
 		1ED5B5CB163A4E2B0072668E /* MTLComparisonAdditionsSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLComparisonAdditionsSpec.m; sourceTree = "<group>"; };
 		1ED5B5CE163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MTLComparisonAdditions.h"; sourceTree = "<group>"; };
 		1ED5B5CF163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MTLComparisonAdditions.m"; sourceTree = "<group>"; };
-		2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLEXTScope.h; sourceTree = "<group>"; };
-		2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLEXTScope.m; sourceTree = "<group>"; };
-		2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLEXTRuntimeExtensions.h; sourceTree = "<group>"; };
-		2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLEXTRuntimeExtensions.m; sourceTree = "<group>"; };
+		2E990D7F1BCCCD67007331B0 /* EXTKeyPathCoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EXTKeyPathCoding.h; sourceTree = "<group>"; };
+		2E990D801BCCCD67007331B0 /* metamacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = metamacros.h; sourceTree = "<group>"; };
+		2E990D811BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLEXTRuntimeExtensions.h; sourceTree = "<group>"; };
+		2E990D821BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLEXTRuntimeExtensions.m; sourceTree = "<group>"; };
+		2E990D831BCCCD67007331B0 /* MTLEXTScope.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLEXTScope.h; sourceTree = "<group>"; };
+		2E990D841BCCCD67007331B0 /* MTLEXTScope.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLEXTScope.m; sourceTree = "<group>"; };
 		541B02B31805EC4C000DA87C /* MTLTransformerErrorExamples.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLTransformerErrorExamples.h; sourceTree = "<group>"; };
 		541B02B41805EC4C000DA87C /* MTLTransformerErrorExamples.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLTransformerErrorExamples.m; sourceTree = "<group>"; };
 		547165A31801977000E734DB /* MTLTransformerErrorHandling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLTransformerErrorHandling.h; sourceTree = "<group>"; };
@@ -205,12 +207,6 @@
 		D08B5AAC16002694001FE685 /* MTLValueTransformer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTLValueTransformer.h; sourceTree = "<group>"; };
 		D08B5AAD16002694001FE685 /* MTLValueTransformer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLValueTransformer.m; sourceTree = "<group>"; };
 		D08B5AB116002A23001FE685 /* MTLValueTransformerSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTLValueTransformerSpec.m; sourceTree = "<group>"; };
-		D094E4751777617300906BF7 /* EXTKeyPathCoding.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EXTKeyPathCoding.h; sourceTree = "<group>"; };
-		D094E4761777617300906BF7 /* EXTRuntimeExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EXTRuntimeExtensions.h; sourceTree = "<group>"; };
-		D094E4771777617300906BF7 /* EXTRuntimeExtensions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EXTRuntimeExtensions.m; sourceTree = "<group>"; };
-		D094E4781777617300906BF7 /* EXTScope.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EXTScope.h; sourceTree = "<group>"; };
-		D094E4791777617300906BF7 /* EXTScope.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EXTScope.m; sourceTree = "<group>"; };
-		D094E47A1777617300906BF7 /* metamacros.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = metamacros.h; sourceTree = "<group>"; };
 		D094E4811777619600906BF7 /* Common.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Common.xcconfig; sourceTree = "<group>"; };
 		D094E4831777619600906BF7 /* Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Debug.xcconfig; sourceTree = "<group>"; };
 		D094E4841777619600906BF7 /* Profile.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Profile.xcconfig; sourceTree = "<group>"; };
@@ -309,6 +305,12 @@
 				D08B5AAD16002694001FE685 /* MTLValueTransformer.m */,
 				547165A31801977000E734DB /* MTLTransformerErrorHandling.h */,
 				5487912318210717007F8347 /* MTLTransformerErrorHandling.m */,
+				2E990D7F1BCCCD67007331B0 /* EXTKeyPathCoding.h */,
+				2E990D801BCCCD67007331B0 /* metamacros.h */,
+				2E990D811BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h */,
+				2E990D821BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m */,
+				2E990D831BCCCD67007331B0 /* MTLEXTScope.h */,
+				2E990D841BCCCD67007331B0 /* MTLEXTScope.m */,
 			);
 			name = "Value Transformers";
 			sourceTree = "<group>";
@@ -341,7 +343,6 @@
 			children = (
 				D0E9C39819F6E008000D427D /* Nimble.framework */,
 				D0E9C39419F6DFD9000D427D /* Quick.framework */,
-				D090E63A15F73249005282F9 /* libextobjc */,
 				D042FC4415F72B23004E8054 /* Foundation.framework */,
 				D021D93E170F807600C37E36 /* CoreData.framework */,
 				D021D940170F807E00C37E36 /* CoreData.framework */,
@@ -453,24 +454,6 @@
 			name = Extensions;
 			sourceTree = "<group>";
 		};
-		D090E63A15F73249005282F9 /* libextobjc */ = {
-			isa = PBXGroup;
-			children = (
-				D094E4751777617300906BF7 /* EXTKeyPathCoding.h */,
-				D094E4781777617300906BF7 /* EXTScope.h */,
-				D094E4791777617300906BF7 /* EXTScope.m */,
-				D094E4761777617300906BF7 /* EXTRuntimeExtensions.h */,
-				D094E4771777617300906BF7 /* EXTRuntimeExtensions.m */,
-				D094E47A1777617300906BF7 /* metamacros.h */,
-				2E9E94A91BCCA604002B4EBA /* MTLEXTScope.h */,
-				2E9E94AA1BCCA604002B4EBA /* MTLEXTScope.m */,
-				2E9E94AD1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h */,
-				2E9E94AE1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m */,
-			);
-			name = libextobjc;
-			path = Mantle/extobjc;
-			sourceTree = SOURCE_ROOT;
-		};
 		D094E47F1777619600906BF7 /* Configuration */ = {
 			isa = PBXGroup;
 			children = (
@@ -554,21 +537,21 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E990D871BCCCD67007331B0 /* metamacros.h in Headers */,
 				D0760E0515FFBD440060F550 /* Mantle.h in Headers */,
 				D0760E7815FFBF330060F550 /* MTLModel.h in Headers */,
 				D08B5AAE16002694001FE685 /* MTLValueTransformer.h in Headers */,
-				A18397E11BA341BC00AB37BA /* EXTKeyPathCoding.h in Headers */,
 				88080C18160A706900CCABF2 /* NSArray+MTLManipulationAdditions.h in Headers */,
 				D0C27D0A16110973002FE587 /* NSDictionary+MTLManipulationAdditions.h in Headers */,
 				D0F117491614C5600092520B /* NSValueTransformer+MTLPredefinedTransformerAdditions.h in Headers */,
 				D053177A1A168D7100A5FBE2 /* NSDictionary+MTLMappingAdditions.h in Headers */,
 				1ED5B5D0163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h in Headers */,
 				D01BD09D16CB432D00EC95C7 /* MTLJSONAdapter.h in Headers */,
+				2E990D8D1BCCCD67007331B0 /* MTLEXTScope.h in Headers */,
 				D05317721A168D3D00A5FBE2 /* MTLTransformerErrorHandling.h in Headers */,
-				2E9E94B41BCCA6C8002B4EBA /* MTLEXTScope.h in Headers */,
-				2E9E94AF1BCCA646002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */,
+				2E990D851BCCCD67007331B0 /* EXTKeyPathCoding.h in Headers */,
 				D01BD0AF16CB52E800EC95C7 /* MTLModel+NSCoding.h in Headers */,
-				A18397E81BA341DC00AB37BA /* metamacros.h in Headers */,
+				2E990D891BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h in Headers */,
 				D0BFC36F17476B4700F5DC5D /* NSValueTransformer+MTLInversionAdditions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -577,21 +560,21 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E990D881BCCCD67007331B0 /* metamacros.h in Headers */,
 				D0E9C38319F6DC5B000D427D /* NSArray+MTLManipulationAdditions.h in Headers */,
-				2E9E94B21BCCA6C3002B4EBA /* MTLEXTRuntimeExtensions.h in Headers */,
 				D0E9C37919F6DC5B000D427D /* MTLModel+NSCoding.h in Headers */,
 				D0E9C38919F6DC5B000D427D /* NSObject+MTLComparisonAdditions.h in Headers */,
-				A18397E21BA341BF00AB37BA /* EXTKeyPathCoding.h in Headers */,
 				D0E9C38119F6DC5B000D427D /* MTLValueTransformer.h in Headers */,
 				D0E9C38B19F6DC5B000D427D /* NSValueTransformer+MTLInversionAdditions.h in Headers */,
 				D05317741A168D3D00A5FBE2 /* MTLTransformerErrorHandling.h in Headers */,
 				D053177B1A168D7200A5FBE2 /* NSDictionary+MTLMappingAdditions.h in Headers */,
 				D0E9C38D19F6DC5B000D427D /* NSValueTransformer+MTLPredefinedTransformerAdditions.h in Headers */,
+				2E990D8E1BCCCD67007331B0 /* MTLEXTScope.h in Headers */,
 				D0E9C37D19F6DC5B000D427D /* MTLJSONAdapter.h in Headers */,
 				D0E9C37719F6DC5B000D427D /* MTLModel.h in Headers */,
-				2E9E94B11BCCA668002B4EBA /* MTLEXTScope.h in Headers */,
+				2E990D861BCCCD67007331B0 /* EXTKeyPathCoding.h in Headers */,
 				D0E9C38719F6DC5B000D427D /* NSDictionary+MTLManipulationAdditions.h in Headers */,
-				A18397E71BA341D900AB37BA /* metamacros.h in Headers */,
+				2E990D8A1BCCCD67007331B0 /* MTLEXTRuntimeExtensions.h in Headers */,
 				D0E9C37619F6DC5B000D427D /* Mantle.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -749,7 +732,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E9E94B51BCCA6CA002B4EBA /* MTLEXTScope.m in Sources */,
+				2E990D8F1BCCCD67007331B0 /* MTLEXTScope.m in Sources */,
+				2E990D8B1BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m in Sources */,
 				D0760E7915FFBF330060F550 /* MTLModel.m in Sources */,
 				D08B5AAF16002694001FE685 /* MTLValueTransformer.m in Sources */,
 				88080C19160A706900CCABF2 /* NSArray+MTLManipulationAdditions.m in Sources */,
@@ -759,7 +743,6 @@
 				1ED5B5D1163A4E3C0072668E /* NSObject+MTLComparisonAdditions.m in Sources */,
 				D05317771A168D6D00A5FBE2 /* NSDictionary+MTLJSONKeyPath.m in Sources */,
 				D01BD09F16CB432D00EC95C7 /* MTLJSONAdapter.m in Sources */,
-				2E9E94B01BCCA646002B4EBA /* MTLEXTRuntimeExtensions.m in Sources */,
 				54803A34178829A800011B39 /* NSError+MTLModelException.m in Sources */,
 				D01BD0B116CB52E800EC95C7 /* MTLModel+NSCoding.m in Sources */,
 				D05317761A168D6D00A5FBE2 /* NSDictionary+MTLMappingAdditions.m in Sources */,
@@ -795,12 +778,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E9E94B61BCCA6CB002B4EBA /* MTLEXTScope.m in Sources */,
+				2E990D901BCCCD67007331B0 /* MTLEXTScope.m in Sources */,
+				2E990D8C1BCCCD67007331B0 /* MTLEXTRuntimeExtensions.m in Sources */,
 				D0E9C38619F6DC5B000D427D /* NSError+MTLModelException.m in Sources */,
 				D0E9C38E19F6DC5B000D427D /* NSValueTransformer+MTLPredefinedTransformerAdditions.m in Sources */,
 				D05317781A168D6D00A5FBE2 /* NSDictionary+MTLMappingAdditions.m in Sources */,
 				D0E9C37C19F6DC5B000D427D /* MTLReflection.m in Sources */,
-				2E9E94B31BCCA6C5002B4EBA /* MTLEXTRuntimeExtensions.m in Sources */,
 				D05317791A168D6D00A5FBE2 /* NSDictionary+MTLJSONKeyPath.m in Sources */,
 				D0E9C37A19F6DC5B000D427D /* MTLModel+NSCoding.m in Sources */,
 				D0E9C38A19F6DC5B000D427D /* NSObject+MTLComparisonAdditions.m in Sources */,
